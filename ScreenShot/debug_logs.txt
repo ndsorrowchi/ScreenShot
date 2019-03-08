@@ -1,0 +1,6 @@
+OnLButtonDown() : Virtual Screen Pos : (0, -548)
+OnLButtonDown() : Virtual Screen Size : (2390, 1316)
+OnLButtonUp() : Virtual Screen Pos : (0, -548)
+OnLButtonUp() : Virtual Screen Size : (2390, 1316)
+OnLButtonUp() : Area TopLeft : (145, 631)
+OnLButtonUp() : Area BottomRight : (777, 1012)

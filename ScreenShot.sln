@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ScreenShot", "ScreenShot\ScreenShot.vcproj", "{35CB76A9-9B1F-415C-9517-C2D9AAE8C759}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ScreenShotSetup", "ScreenShotSetup\ScreenShotSetup.vdproj", "{D6165422-902F-4472-A48B-69C95DCF06BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35CB76A9-9B1F-415C-9517-C2D9AAE8C759}.Debug|Win32.ActiveCfg = Debug|Win32
+		{35CB76A9-9B1F-415C-9517-C2D9AAE8C759}.Debug|Win32.Build.0 = Debug|Win32
+		{35CB76A9-9B1F-415C-9517-C2D9AAE8C759}.Release|Win32.ActiveCfg = Release|Win32
+		{35CB76A9-9B1F-415C-9517-C2D9AAE8C759}.Release|Win32.Build.0 = Release|Win32
+		{D6165422-902F-4472-A48B-69C95DCF06BE}.Debug|Win32.ActiveCfg = Debug
+		{D6165422-902F-4472-A48B-69C95DCF06BE}.Debug|Win32.Build.0 = Debug
+		{D6165422-902F-4472-A48B-69C95DCF06BE}.Release|Win32.ActiveCfg = Release
+		{D6165422-902F-4472-A48B-69C95DCF06BE}.Release|Win32.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
